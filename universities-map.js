@@ -14,6 +14,5 @@ require([
     center: [108, 16]
   });
 
-  // Requirement 3: universities picture markers and popup.
-
+  
 });
