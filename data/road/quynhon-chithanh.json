@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Quy Nhơn - Chí Thạnh",
+        "kind": "road"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -296,6 +299,34 @@
           ]
         ],
         "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chí Thạnh",
+        "kind": "end"
+      },
+      "geometry": {
+        "coordinates": [
+          109.20166255404428,
+          13.310845957248887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quy Nhơn",
+        "kind": "start"
+      },
+      "geometry": {
+        "coordinates": [
+          109.07945622646548,
+          13.85338651958935
+        ],
+        "type": "Point"
       }
     }
   ]
