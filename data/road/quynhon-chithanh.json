@@ -4,8 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Quy Nhơn - Chí Thạnh",
-        "kind": "road"
+        "name": "ct01 Quy Nhơn - Chí Thạnh",
+        "length": "61.7",
+        "lo gioi": "17",
+        "province": [
+          "Gia Lai",
+          "Đắk Lắk"
+        ]
       },
       "geometry": {
         "coordinates": [
