@@ -51,10 +51,6 @@ require([
         type: "fields",
         fieldInfos: [
           {
-            fieldName: "loai",
-            label: "Loại đơn vị"
-          },
-          {
             fieldName: "dan_so",
             label: "Dân số",
             format: {
@@ -69,18 +65,6 @@ require([
               digitSeparator: true,
               places: 2
             }
-          },
-          {
-            fieldName: "matdo_km2",
-            label: "Mật độ dân số (người/km2)",
-            format: {
-              digitSeparator: true,
-              places: 2
-            }
-          },
-          {
-            fieldName: "tru_so",
-            label: "Trụ sở"
           }
         ]
       }
@@ -127,10 +111,5 @@ require([
     map.add(layer);
   });
 
-  const legend = new Legend({
-    view: view
-  });
-
-  view.ui.add(legend, "bottom-right");
 
 });
