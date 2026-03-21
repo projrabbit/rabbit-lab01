@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ĐH Kinh tế TP.HCM",
+    "year": 1976,
+    "majors": "Kinh tế, Kinh doanh, Tài chính - Ngân hàng, Kế toán - Kiểm toán, Luật, Quản lý công, Toán tài chính - Thống kê, Thương mại, Logistics - Quản lý chuỗi cung ứng, Du lịch - Khách sạn, Công nghệ, Khoa học máy tính, An toàn thông tin, Robot & AI, Thiết kế truyền thông và đa phương tiện",
+    "students": 30000,
+    "longitude": 106.6948371,
+    "latitude": 10.7829634
+  },
+  {
+    "name": "ĐH Sư phạm TP.HCM",
+    "year": 1976,
+    "majors": "Sư phạm; Toán - Tin, Vật lý, Hóa học, Sinh học, Công nghệ thông tin; Ngữ văn, Lịch sử, Địa lý, Quốc tế học; Tâm lý học, Khoa học giáo dục, Giáo dục mầm non, Giáo dục tiểu học, Giáo dục đặc biệt, Giáo dục chính trị, Giáo dục quốc phòng, Giáo dục thể chất; Ngoại ngữ (Anh, Trung, Pháp, Nga, Nhật, Hàn, Tây Ban Nha)",
+    "students": 25000,
+    "longitude": 106.6821834,
+    "latitude": 10.761394
+  }
+]
