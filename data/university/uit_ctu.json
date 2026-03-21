@@ -1,0 +1,18 @@
+[
+    {
+        "name": "ĐH Công nghệ Thông tin TP.HCM",
+        "year": 2006,
+        "students": 7000,
+        "majors": "Khoa học máy tính, Kỹ thuật phần mềm, Hệ thống thông tin, Mạng máy tính, An toàn thông tin, Trí tuệ nhân tạo, Khoa học dữ liệu, Thương mại điện tử",
+        "longitude": 106.8032721,
+        "latitude": 10.8700144
+    },
+    {
+        "name": "ĐH Cần Thơ",
+        "year": 1966,
+        "students": 39220,
+        "majors": "Nông nghiệp, Thủy sản, Công nghệ thông tin, Kỹ thuật, Kinh tế, Sư phạm, Luật, Môi trường, Công nghệ sinh học",
+        "longitude": 105.7796113,
+        "latitude": 10.0336100
+    }
+]
