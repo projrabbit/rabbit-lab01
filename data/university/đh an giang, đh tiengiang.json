@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Đại học An Giang",
+    "year": 1999,
+    "majors": "Sư phạm khoa học tự nhiên, công nghệ nông nghiệp số, Kinh doanh nông nghiệp số, ...",
+    "students": 10000,
+    "longitude": 105.43127,
+    "latitude": 10.37069
+  },
+  {
+    "name": "Đại học Tiền Giang",
+    "year": 2005,
+    "majors": "Kế toán, Quản trị kinh doanh, Tài chính - Ngân hàng, Kinh tế, Luật, Du lịch, ...",
+    "students": 9000,
+    "longitude": 106.35773,
+    "latitude": 10.36567
+  }
+]
