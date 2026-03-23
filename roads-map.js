@@ -26,6 +26,8 @@ require([
     "bacgiang-langson.json",
     "danang-quangngai.json",
     "HCM-longthanhDaugiay_HCM-trungluong.json",
+    "halong-vandon-mongcai.json",
+    "nhatrang-camlam.json",
     "quynhon-chithanh.json",
     "trungluong-mythuan_mythuan-cantho.json"
   ];

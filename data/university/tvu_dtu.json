@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Đại học Trà Vinh",
+		"latitude": 9.92736896047518,
+		"longitude": 106.33441540513599,
+		"year": 2006,
+		"majors": "Đa ngành, đa lĩnh vực",
+		"students": 20506
+	},
+	{
+		"name": "Đại học Đồng Tháp",
+		"latitude": 10.419860641785192,
+		"longitude": 105.64387131816055,
+		"year": 2003,
+		"majors": "Đa ngành, đa lĩnh vực",
+		"students": 15000
+	}
+]
