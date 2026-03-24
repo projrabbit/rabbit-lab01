@@ -26,7 +26,8 @@ require([
   const dataFiles = [
     "./data/university/ueh_hcmue.json",
     "./data/university/uit_ctu.json",
-    "./data/university/agu_tgu.json"
+    "./data/university/agu_tgu.json",
+    "./data/university/tvu_dtu.json"
   ];
 
   const universitySymbol = {
@@ -54,16 +55,20 @@ require([
         name: university.name || "Khong co du lieu",
         year: university.year || "Khong ro",
         majors: university.majors || "Khong co du lieu",
-        students: Number(university.students) || 0
+        students: Number.isFinite(Number(university.students))
+          ? Number(university.students)
+          : null
       },
       popupTemplate: {
         title: "{name}",
         content: function(event) {
           const attrs = event.graphic.attributes || {};
+          const studentsText = Number.isFinite(Number(attrs.students))
+            ? "Khoang " + Number(attrs.students).toLocaleString("vi-VN") + " sinh vien"
+            : "Khong ro";
           return "<b>Nam thanh lap:</b> " + attrs.year + "<br/>" +
             "<b>Nganh dao tao:</b> " + attrs.majors + "<br/>" +
-            "<b>So luong sinh vien (tuong doi):</b> Khoang " +
-            Number(attrs.students).toLocaleString("vi-VN") + " sinh vien";
+            "<b>So luong sinh vien (tuong doi):</b> " + studentsText;
         }
       }
     });
