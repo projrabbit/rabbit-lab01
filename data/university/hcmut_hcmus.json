@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Đại học Bách khoa - ĐHQG TP.HCM",
+    "year": 1957,
+    "majors": "Khoa học Máy tính, Kỹ thuật Cơ khí, Kỹ thuật Điện - Điện tử, Kỹ thuật Xây dựng, Kỹ thuật Hóa học, ...",
+    "students": 27000,
+    "longitude": 106.65917,
+    "latitude": 10.77259
+  },
+  {
+    "name": "Đại học Khoa học Tự nhiên - ĐHQG TP.HCM",
+    "year": 1941,
+    "majors": "Toán học, Vật lý học, Hóa học, Sinh học, Công nghệ thông tin, Khoa học môi trường, ...",
+    "students": 15000,
+    "longitude": 106.68233,
+    "latitude": 10.76282
+  }
+]
